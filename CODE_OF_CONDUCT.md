@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# The shim-review project Code of Conduct
 
 ## Our Pledge
 
@@ -11,7 +11,71 @@ nationality, personal appearance, race, caste, color, religion, or sexual identi
 and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, and healthy community. Several of these interactions
+and contributions have been described below in-depth in the context of
+the shim-review project specifically.
+
+Our diverse community, including applicants and reviewers, consists of
+people with different backstories and, as mentioned, different
+experiences. Not everyone has the knowledge to publish an error-free
+application the first time.  Furthermore, not everyone follows the
+development of UEFI Shim, bootloaders, the Linux kernel, SSL libraries,
+signing utilities, among others, and we as individuals or companies may
+not be aware of the venues that take place outside the shim-review
+project. It's natural and there's nothing to be ashamed about.  We're
+here to partake in a venue where we all can learn from the public
+applications in a safe space to make mistakes. After all, it's better to
+make them and correct them here, than send a submission to the Microsoft
+Windows Hardware Developer Program, only to have it rejected there -
+while the reviewing process should be strict and require asking detailed
+questions to ensure that submission will be error-free, the venue should
+not be interpreted as a public administration office with overwhelming
+bureaucracy, where the reviews are being done with discouragement and
+burnout. As a welcoming community, we would like to avoid something like
+an applicant having to, sadly, attend Daily Standups, Plannings,
+Retrospectives, among others, only to once again explain with utter
+sadness to the management, that "*We don't have this application
+accepted, since the committee has not yet reviewed it*" - it's
+preferable that it (both the community and the project) resembles a student
+club at a university with loose atmosphere, where people from different
+cultures, experiences, and having different levels of knowledge and expertise
+can come and safely learn new things.
+
+The aforementioned inclusion shall also relate to the fact that, while
+many applicants and reviewers may have a high-end technology that clones
+a repository and performs a build of a binary in mere seconds, this is
+not always the case. The reviewers may work with a limited (speed or
+transfer-wise) Internet connection, disk space, processing power, and
+other resources. Furthermore, while this project is endorsed by the
+[Microsoft Corporation](Microsoft-file-signing-reqs) and [Red Hat, Inc.
+("Red Hat Bootloader Team")](rhboot), the reviewers are in most cases
+volunteers working on this in their free time, rather than employees
+being paid to review the applications during their working hours.
+Sometimes this volunteer work means sacrificing sleep time or neglecting
+friends and family just so the reviewing process gets uncloged.
+
+While it's understandable to desire more public activity, the lack of it
+does not mean that nothing is going on behind the scenes, and even if a
+reviewer appears to be slacking off, it may well mean that they are
+preparing a decent response, which can take time and energy. Commenting
+in an application may require thorough research and composing an
+easy-to-follow response, rather than pasting facts without a good
+structure/flow. Furthermore, it may require some interest in the product
+being reviewed itself, for which the UEFI Shim will be prepared, and its
+general surroundings, e.g. building frameworks, what the company behind
+a product does, among others. This also requires time and focus, which
+may be hard to come by if a reviewer gets little sleep due to a busy
+life. As humans, we may well have personal struggles that make focusing
+on analysis hard or be unavailable due to multiple circumstances and
+interruptions, including the fact that there may be timezone
+differences, due to this venue being and international one.
+
+For example, if you follow a reviewer on social media, and they post
+goofy things there, but the reviews are stalled, that's **not** an
+indicator of whether someone is slacking off or not, because, for
+instance, during long calls or after some sleepless days, one can write
+a loose comment publicly, but can't focus on reviews that require
+accuracy and correctness.
 
 ## Our Standards
 
@@ -61,7 +125,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-rharwood AT redhat DOT com.
+**TODO INSERT CONTACT METHOD**.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -115,7 +179,7 @@ the community.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+The shim-review project Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.1, available at
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
@@ -126,9 +190,25 @@ For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][FAQ]. Translations are available
 at [https://www.contributor-covenant.org/translations][translations].
 
+[Contributor Covenant][homepage] is released under the [Creative Commons
+Attribution 4.0 International Public
+License](https://creativecommons.org/licenses/by/4.0/), which requires
+that attribution be included.  
+© 2014 [Coraline Ada Ehmke](https://where.coraline.codes/)
+
+Additional guidelines explaining diversity and inclusion, as well as
+interactions and contributions specific to the shim-review project were
+added by [Kamil Aronowski](https://github.com/aronowski).  
+The shim-review project Code of Conduct is released under the [Creative
+Commons Attribution 4.0 International Public
+License](https://creativecommons.org/licenses/by/4.0/), which requires
+that attribution be included.
+© 2024 [Kamil Aronowski](https://github.com/aronowski)
+
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
-
+[Microsoft-file-signing-reqs]: https://github.com/MicrosoftDocs/windows-driver-docs/blob/4e8722cb148afcf4767d00f0495630db317c254c/windows-driver-docs-pr/dashboard/file-signing-reqs.md
+[rhboot]: https://github.com/rhboot
